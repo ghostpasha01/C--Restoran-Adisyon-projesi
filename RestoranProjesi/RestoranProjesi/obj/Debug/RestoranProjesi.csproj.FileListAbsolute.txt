@@ -1,0 +1,65 @@
+c:\users\spanchi\documents\visual studio 2015\Projects\RestoranProjesi\RestoranProjesi\bin\Debug\RestoranProjesi.exe.config
+c:\users\spanchi\documents\visual studio 2015\Projects\RestoranProjesi\RestoranProjesi\obj\Debug\RestoranProjesi.Properties.Resources.resources
+c:\users\spanchi\documents\visual studio 2015\Projects\RestoranProjesi\RestoranProjesi\obj\Debug\RestoranProjesi.csproj.GenerateResource.Cache
+c:\users\spanchi\documents\visual studio 2015\Projects\RestoranProjesi\RestoranProjesi\bin\Debug\RestoranProjesi.exe
+c:\users\spanchi\documents\visual studio 2015\Projects\RestoranProjesi\RestoranProjesi\bin\Debug\RestoranProjesi.pdb
+c:\users\spanchi\documents\visual studio 2015\Projects\RestoranProjesi\RestoranProjesi\bin\Debug\MetroFramework.dll
+c:\users\spanchi\documents\visual studio 2015\Projects\RestoranProjesi\RestoranProjesi\obj\Debug\RestoranProjesi.exe
+c:\users\spanchi\documents\visual studio 2015\Projects\RestoranProjesi\RestoranProjesi\obj\Debug\RestoranProjesi.pdb
+C:\Users\Spanchi\Documents\Visual Studio 2015\Projects\RestoranProjesi\RestoranProjesi\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Spanchi\Documents\Visual Studio 2015\Projects\RestoranProjesi\RestoranProjesi\bin\Debug\MetroFramework.Design.dll
+C:\Users\Spanchi\Documents\Visual Studio 2015\Projects\RestoranProjesi\RestoranProjesi\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Spanchi\Documents\Visual Studio 2015\Projects\RestoranProjesi\RestoranProjesi\obj\Debug\RestoranProjesi.frmGirisEkrani.resources
+C:\Users\Spanchi\Documents\Visual Studio 2015\Projects\RestoranProjesi\RestoranProjesi\obj\Debug\RestoranProjesi.csprojResolveAssemblyReference.cache
+C:\Users\Spanchi\Documents\Visual Studio 2015\Projects\RestoranProjesi\RestoranProjesi\obj\Debug\RestoranProjesi.frmKullaniciEkle.resources
+C:\Users\ELAB\Downloads\RestoranProjesi\RestoranProjesi\RestoranProjesi\bin\Debug\RestoranProjesi.exe.config
+C:\Users\ELAB\Downloads\RestoranProjesi\RestoranProjesi\RestoranProjesi\obj\Debug\RestoranProjesi.exe
+C:\Users\ELAB\Downloads\RestoranProjesi\RestoranProjesi\RestoranProjesi\obj\Debug\RestoranProjesi.pdb
+C:\Users\ELAB\Downloads\RestoranProjesi\RestoranProjesi\RestoranProjesi\obj\Debug\RestoranProjesi.csprojResolveAssemblyReference.cache
+C:\Users\ELAB\Downloads\RestoranProjesi\RestoranProjesi\RestoranProjesi\obj\Debug\RestoranProjesi.frmGirisEkrani.resources
+C:\Users\ELAB\Downloads\RestoranProjesi\RestoranProjesi\RestoranProjesi\obj\Debug\RestoranProjesi.frmKullaniciEkle.resources
+C:\Users\ELAB\Downloads\RestoranProjesi\RestoranProjesi\RestoranProjesi\obj\Debug\RestoranProjesi.Properties.Resources.resources
+C:\Users\ELAB\Downloads\RestoranProjesi\RestoranProjesi\RestoranProjesi\obj\Debug\RestoranProjesi.csproj.GenerateResource.Cache
+C:\Users\ELAB\Downloads\RestoranProjesi\RestoranProjesi\RestoranProjesi\bin\Debug\RestoranProjesi.exe
+C:\Users\ELAB\Downloads\RestoranProjesi\RestoranProjesi\RestoranProjesi\bin\Debug\RestoranProjesi.pdb
+C:\Users\ELAB\Downloads\RestoranProjesi\RestoranProjesi\RestoranProjesi\bin\Debug\MetroFramework.Design.dll
+C:\Users\ELAB\Downloads\RestoranProjesi\RestoranProjesi\RestoranProjesi\bin\Debug\MetroFramework.dll
+C:\Users\ELAB\Downloads\RestoranProjesi\RestoranProjesi\RestoranProjesi\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ELAB\Downloads\RestoranProjesi\RestoranProjesi\RestoranProjesi\obj\Debug\RestoranProjesi.frmAnaMenu.resources
+C:\Users\Spanchi\Documents\Visual Studio 2015\Projects\RestoranProjesi 10.12.2019\RestoranProjesi\RestoranProjesi\bin\Debug\RestoranProjesi.exe.config
+C:\Users\Spanchi\Documents\Visual Studio 2015\Projects\RestoranProjesi 10.12.2019\RestoranProjesi\RestoranProjesi\obj\Debug\RestoranProjesi.exe
+C:\Users\Spanchi\Documents\Visual Studio 2015\Projects\RestoranProjesi 10.12.2019\RestoranProjesi\RestoranProjesi\obj\Debug\RestoranProjesi.pdb
+C:\Users\Spanchi\Documents\Visual Studio 2015\Projects\RestoranProjesi 10.12.2019\RestoranProjesi\RestoranProjesi\obj\Debug\RestoranProjesi.csprojResolveAssemblyReference.cache
+C:\Users\Spanchi\Documents\Visual Studio 2015\Projects\RestoranProjesi 10.12.2019\RestoranProjesi\RestoranProjesi\obj\Debug\RestoranProjesi.frmAnaMenu.resources
+C:\Users\Spanchi\Documents\Visual Studio 2015\Projects\RestoranProjesi 10.12.2019\RestoranProjesi\RestoranProjesi\obj\Debug\RestoranProjesi.frmGirisEkrani.resources
+C:\Users\Spanchi\Documents\Visual Studio 2015\Projects\RestoranProjesi 10.12.2019\RestoranProjesi\RestoranProjesi\obj\Debug\RestoranProjesi.frmKullaniciEkle.resources
+C:\Users\Spanchi\Documents\Visual Studio 2015\Projects\RestoranProjesi 10.12.2019\RestoranProjesi\RestoranProjesi\obj\Debug\RestoranProjesi.Properties.Resources.resources
+C:\Users\Spanchi\Documents\Visual Studio 2015\Projects\RestoranProjesi 10.12.2019\RestoranProjesi\RestoranProjesi\obj\Debug\RestoranProjesi.csproj.GenerateResource.Cache
+C:\Users\Spanchi\Documents\Visual Studio 2015\Projects\RestoranProjesi 10.12.2019\RestoranProjesi\RestoranProjesi\bin\Debug\RestoranProjesi.exe
+C:\Users\Spanchi\Documents\Visual Studio 2015\Projects\RestoranProjesi 10.12.2019\RestoranProjesi\RestoranProjesi\bin\Debug\RestoranProjesi.pdb
+C:\Users\Spanchi\Documents\Visual Studio 2015\Projects\RestoranProjesi 10.12.2019\RestoranProjesi\RestoranProjesi\bin\Debug\MetroFramework.Design.dll
+C:\Users\Spanchi\Documents\Visual Studio 2015\Projects\RestoranProjesi 10.12.2019\RestoranProjesi\RestoranProjesi\bin\Debug\MetroFramework.dll
+C:\Users\Spanchi\Documents\Visual Studio 2015\Projects\RestoranProjesi 10.12.2019\RestoranProjesi\RestoranProjesi\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Spanchi\Documents\Visual Studio 2015\Projects\RestoranProjesi 10.12.2019\RestoranProjesi\RestoranProjesi\obj\Debug\RestoranProjesi.frmUrunEkle.resources
+C:\Users\Spanchi\Documents\Visual Studio 2015\Projects\RestoranProjesi 10.12.2019\RestoranProjesi\RestoranProjesi\obj\Debug\RestoranProjesi.frmMenuEkle.resources
+C:\Users\Spanchi\Documents\Visual Studio 2015\Projects\RestoranProjesi 10.12.2019\RestoranProjesi\RestoranProjesi\obj\Debug\RestoranProjesi.frmHesapKapat.resources
+C:\Users\Spanchi\Documents\Visual Studio 2015\Projects\RestoranProjesi 10.12.2019\RestoranProjesi\RestoranProjesi\obj\Debug\RestoranProjesi.frmRaporlar.resources
+C:\Users\Hp\Desktop\RestoranProjesi\RestoranProjesi\bin\Debug\RestoranProjesi.exe.config
+C:\Users\Hp\Desktop\RestoranProjesi\RestoranProjesi\obj\Debug\RestoranProjesi.exe
+C:\Users\Hp\Desktop\RestoranProjesi\RestoranProjesi\obj\Debug\RestoranProjesi.pdb
+C:\Users\Hp\Desktop\RestoranProjesi\RestoranProjesi\bin\Debug\RestoranProjesi.exe
+C:\Users\Hp\Desktop\RestoranProjesi\RestoranProjesi\bin\Debug\RestoranProjesi.pdb
+C:\Users\Hp\Desktop\RestoranProjesi\RestoranProjesi\bin\Debug\MetroFramework.Design.dll
+C:\Users\Hp\Desktop\RestoranProjesi\RestoranProjesi\bin\Debug\MetroFramework.dll
+C:\Users\Hp\Desktop\RestoranProjesi\RestoranProjesi\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Hp\Desktop\RestoranProjesi\RestoranProjesi\obj\Debug\RestoranProjesi.csprojResolveAssemblyReference.cache
+C:\Users\Hp\Desktop\RestoranProjesi\RestoranProjesi\obj\Debug\RestoranProjesi.frmAnaMenu.resources
+C:\Users\Hp\Desktop\RestoranProjesi\RestoranProjesi\obj\Debug\RestoranProjesi.frmGirisEkrani.resources
+C:\Users\Hp\Desktop\RestoranProjesi\RestoranProjesi\obj\Debug\RestoranProjesi.frmHesapKapat.resources
+C:\Users\Hp\Desktop\RestoranProjesi\RestoranProjesi\obj\Debug\RestoranProjesi.frmKullaniciEkle.resources
+C:\Users\Hp\Desktop\RestoranProjesi\RestoranProjesi\obj\Debug\RestoranProjesi.frmMenuEkle.resources
+C:\Users\Hp\Desktop\RestoranProjesi\RestoranProjesi\obj\Debug\RestoranProjesi.frmRaporlar.resources
+C:\Users\Hp\Desktop\RestoranProjesi\RestoranProjesi\obj\Debug\RestoranProjesi.frmUrunEkle.resources
+C:\Users\Hp\Desktop\RestoranProjesi\RestoranProjesi\obj\Debug\RestoranProjesi.Properties.Resources.resources
+C:\Users\Hp\Desktop\RestoranProjesi\RestoranProjesi\obj\Debug\RestoranProjesi.csproj.GenerateResource.Cache
+C:\Users\Hp\Desktop\RestoranProjesi\RestoranProjesi\obj\Debug\RestoranProjesi.frmSatisDetay.resources
